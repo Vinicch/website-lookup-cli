@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"os"
-	"websiteLookup/internal/app/websiteLookup/cli"
+	"websiteLookup/internal/app/websiteLookup/handlers/cli"
 )
 
 func main() {
